@@ -20,4 +20,4 @@ We all know how tough it is to focus during an online class on Zoom/ Google Meet
 - Firebase 
 
 
-This is a joint project by @LunlunChin and @pauliand3138 on github
+This is a joint project by @LunlunChin and @paul-ian-dev on github
